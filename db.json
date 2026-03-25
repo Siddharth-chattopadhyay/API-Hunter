@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Siddharth Chattopadhyay",
+      "id": "zR8o8CyXz44"
+    },
+    {
+      "name": "Hello World",
+      "id": "T1zm-xPQLus"
+    },
+    {
+      "name": "Siya",
+      "id": "3qI6pRS-ut0"
+    },
+    {
+      "name": "1994",
+      "id": "sntywPYn3aw"
+    },
+    {
+      "name": "1099000950904595",
+      "id": "-8wSrViI6ns"
+    },
+    {
+      "name": "fista",
+      "id": "oDF0yshyw8c"
+    },
+    {
+      "name": "hiela",
+      "id": "DgoN3P_QEu8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
